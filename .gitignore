@@ -1,0 +1,13 @@
+# 虛擬環境
+.venv/
+venv/
+
+# Python快取
+__pycache__/
+*.pyc
+
+# PyCharm設定檔
+.idea/
+
+# 作業系統產生的雜檔
+.DS_Store
